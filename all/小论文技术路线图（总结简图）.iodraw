@@ -13,8 +13,14 @@
         <mxCell id="o8dxkA0j6a8E7K2gx95j-135" value="Raw Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="148" y="199" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o8dxkA0j6a8E7K2gx95j-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8dxkA0j6a8E7K2gx95j-137" target="o8dxkA0j6a8E7K2gx95j-172">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="903" y="238" as="sourcePoint" />
+            <mxPoint x="730" y="489" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="903" y="489" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="o8dxkA0j6a8E7K2gx95j-137" value="Generated Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="853" y="199" width="100" height="40" as="geometry" />
