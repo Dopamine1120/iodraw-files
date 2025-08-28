@@ -5,67 +5,67 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o8dxkA0j6a8E7K2gx95j-135" value="Real Sample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="426" y="254" width="100" height="40" as="geometry" />
+          <mxGeometry x="399" y="317" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o8dxkA0j6a8E7K2gx95j-169" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;curved=0;" parent="1" source="o8dxkA0j6a8E7K2gx95j-152" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="605.7600000000002" y="184" as="targetPoint" />
+            <mxPoint x="578.7600000000002" y="247" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="597" y="184" />
-              <mxPoint x="597" y="185" />
+              <mxPoint x="570" y="247" />
+              <mxPoint x="570" y="248" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8dxkA0j6a8E7K2gx95j-152" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy01&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy02&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;.......&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy273&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;shadow=1;fontStyle=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="411" y="134" width="130" height="100" as="geometry" />
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-152" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy01&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy02&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;.......&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Origin-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy273&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;shadow=1;fontStyle=3;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="384" y="197" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8dxkA0j6a8E7K2gx95j-153" target="Y90fxuq3KpS2_mSnH_UX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8dxkA0j6a8E7K2gx95j-153" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Pseudo-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy01&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Pseudo-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy02&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;........&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Pseudo-&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Alloy5000&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;shadow=1;fontStyle=3;align=center;" parent="1" vertex="1">
-          <mxGeometry x="692" y="376" width="130" height="100" as="geometry" />
+          <mxGeometry x="665" y="439" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-1" value="Random Noise" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="185" y="490" width="100" height="40" as="geometry" />
+          <mxGeometry x="158" y="553" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Random-Comps&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;01&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Random-Comps&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;02&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Random-Comps0&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;.......&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 9pt; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;shadow=1;fontStyle=3;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="370" width="130" height="100" as="geometry" />
+          <mxGeometry x="143" y="433" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-5" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="119" width="231" height="130" as="geometry" />
+          <mxGeometry x="600" y="182" width="231" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="351" width="231" height="130" as="geometry" />
+          <mxGeometry x="347" y="414" width="231" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y90fxuq3KpS2_mSnH_UX-2" target="Y90fxuq3KpS2_mSnH_UX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-10" value="Generator" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="451" y="490" width="100" height="40" as="geometry" />
+          <mxGeometry x="424" y="553" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-11" value="Discriminator" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="707" y="254" width="100" height="40" as="geometry" />
+          <mxGeometry x="680" y="317" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=231;exitDy=75;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y90fxuq3KpS2_mSnH_UX-6" target="o8dxkA0j6a8E7K2gx95j-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-15" value="Fake Sample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="698" y="490" width="100" height="40" as="geometry" />
+          <mxGeometry x="671" y="553" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-16" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Real&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="130" width="100" height="46" as="geometry" />
+          <mxGeometry x="903" y="193" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-18" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Fake&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="203" width="100" height="46" as="geometry" />
+          <mxGeometry x="903" y="266" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="160" width="70" height="70" as="geometry" />
+          <mxGeometry x="833" y="223" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-22" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="500" width="160" height="10" as="geometry" />
+          <mxGeometry x="643" y="563" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="500" width="160" height="10" as="geometry" />
+          <mxGeometry x="643" y="563" width="160" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
