@@ -50,8 +50,8 @@
             <mxPoint x="910" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8dxkA0j6a8E7K2gx95j-126" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="830" y="340" width="100" height="40" as="geometry" />
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-126" value="WGAN_GP" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="534" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
