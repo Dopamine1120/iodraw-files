@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1430" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="o8dxkA0j6a8E7K2gx95j-155" value="Initalslsls" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="475" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="o8dxkA0j6a8E7K2gx95j-156" value="Alloy 1 Ni&lt;sub&gt;50&lt;/sub&gt;Fe&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;5&lt;/sub&gt;&lt;/span&gt;Co&lt;sub&gt;12&lt;/sub&gt;Al&lt;sub&gt;12&lt;/sub&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-156" value="&lt;b&gt;Alloy 1&lt;/b&gt; &lt;i&gt;Ni&lt;sub&gt;50&lt;/sub&gt;Fe&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;5&lt;/sub&gt;&lt;/span&gt;Co&lt;sub&gt;12&lt;/sub&gt;Al&lt;sub&gt;12&lt;/sub&gt;&lt;/i&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8dxkA0j6a8E7K2gx95j-157" value="Alloy&amp;nbsp;2 Ni&lt;sub&gt;50&lt;/sub&gt;Fe&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sub&gt;10&lt;/sub&gt;&lt;/span&gt;Co&lt;sub&gt;12&lt;/sub&gt;Al&lt;sub&gt;12&lt;/sub&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
