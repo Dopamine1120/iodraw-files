@@ -120,16 +120,8 @@
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-6" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="355" width="231" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Y90fxuq3KpS2_mSnH_UX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y90fxuq3KpS2_mSnH_UX-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="294" y="194" as="sourcePoint" />
-            <mxPoint x="358.7600000000002" y="194" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="284" y="194" />
-              <mxPoint x="350" y="194" />
-              <mxPoint x="350" y="195" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Y90fxuq3KpS2_mSnH_UX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y90fxuq3KpS2_mSnH_UX-2" target="Y90fxuq3KpS2_mSnH_UX-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
