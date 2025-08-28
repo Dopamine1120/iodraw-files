@@ -43,6 +43,12 @@
         <mxCell id="o8dxkA0j6a8E7K2gx95j-158" value="Alloy&amp;nbsp;3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-160" value="Generated Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="845" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-161" value="Generated Data" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="855" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
