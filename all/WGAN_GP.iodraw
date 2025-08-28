@@ -118,8 +118,11 @@
         <mxCell id="Y90fxuq3KpS2_mSnH_UX-15" value="Fake Sample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=3;verticalAlign=middle;align=center;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="697" y="490" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y90fxuq3KpS2_mSnH_UX-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y90fxuq3KpS2_mSnH_UX-16" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Real&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y90fxuq3KpS2_mSnH_UX-17" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Real&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="144" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
