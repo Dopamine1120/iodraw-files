@@ -34,7 +34,7 @@
         <mxCell id="o8dxkA0j6a8E7K2gx95j-155" value="Initalslsls" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="475" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="o8dxkA0j6a8E7K2gx95j-156" value="Alloy 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-156" value="Alloy 1 Ni&lt;sub&gt;50&lt;/sub&gt;Fe&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;5&lt;/sub&gt;&lt;/span&gt;Co&lt;sub&gt;12&lt;/sub&gt;Al&lt;sub&gt;12&lt;/sub&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8dxkA0j6a8E7K2gx95j-157" value="Alloy&amp;nbsp;2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="o8dxkA0j6a8E7K2gx95j-155">
