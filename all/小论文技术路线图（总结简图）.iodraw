@@ -108,6 +108,9 @@
         <mxCell id="o8dxkA0j6a8E7K2gx95j-216" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o8dxkA0j6a8E7K2gx95j-217" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="270" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
