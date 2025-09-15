@@ -104,7 +104,7 @@
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-19" value="严格约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dmdPCm7hSkdGT2MhOXLy-22" value="基于遗传算法机器学习迭代推荐轻质高强高熵高温合金成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dmdPCm7hSkdGT2MhOXLy-22" value="实验验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="670" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
