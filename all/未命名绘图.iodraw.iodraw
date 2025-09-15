@@ -95,16 +95,17 @@
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-15" value="初步约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-900" y="405" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dmdPCm7hSkdGT2MhOXLy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-910.0000000000005" y="695" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="dmdPCm7hSkdGT2MhOXLy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-18" target="dmdPCm7hSkdGT2MhOXLy-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-18" value="基于遗传算法机器学习迭代推荐轻质高强高熵高温合金成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="570" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-19" value="严格约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmdPCm7hSkdGT2MhOXLy-22" value="基于遗传算法机器学习迭代推荐轻质高强高熵高温合金成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="670" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
