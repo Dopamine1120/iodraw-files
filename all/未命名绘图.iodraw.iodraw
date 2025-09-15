@@ -22,7 +22,7 @@
         <mxCell id="PFPkpjG8Euh2rAgGwDlH-99" value="S2、建立”成分-相参数“代理模型" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-990" y="240" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFPkpjG8Euh2rAgGwDlH-102" value="自动化机器学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="PFPkpjG8Euh2rAgGwDlH-102" value="自动化机器学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rounded=1;strokeColor=default;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFPkpjG8Euh2rAgGwDlH-103" value="S3、耦合”成分-相参数“的约束参数" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
