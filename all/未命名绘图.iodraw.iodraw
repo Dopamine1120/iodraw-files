@@ -82,8 +82,8 @@
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="遗传算法初始种群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-900" y="460" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dmdPCm7hSkdGT2MhOXLy-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="658" width="50" height="30" as="geometry" />
+        <mxCell id="dmdPCm7hSkdGT2MhOXLy-15" value="初步约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="402" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
