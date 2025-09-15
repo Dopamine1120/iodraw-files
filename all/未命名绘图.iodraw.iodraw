@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-1" value="&lt;div style=&quot;text-align: justify; line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;1.（L12-析出相体积分数）/（析出相体积分数）&amp;lt;0.1；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: justify; line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;2.L12相主要元素&amp;lt;15；&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: justify; line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;3.Al/（Ti+Nb）&amp;gt;1;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="370" width="160" height="120" as="geometry" />
+          <mxGeometry x="-1300" y="360" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-5">
           <mxGeometry relative="1" as="geometry">
