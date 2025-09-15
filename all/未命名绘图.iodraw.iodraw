@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3311" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-1" value="&lt;div style=&quot;text-align: justify; line-height: 220%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.（L12-析出相体积分数）/（析出相体积分数）&amp;lt;0.1；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify; line-height: 220%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.L12相主要元素&amp;lt;15；&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify; line-height: 220%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.Al/（Ti+Nb）&amp;gt;1;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="230" width="160" height="120" as="geometry" />
+          <mxGeometry x="-690" y="220" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
