@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="3024" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3908" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="S5、对抗神经网络方法生成虚拟样本并采用约束初筛构建初始种群" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-1000" y="450.09" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1000" y="455" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-15" value="初步约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-780" y="1014.91" width="70" height="30" as="geometry" />
@@ -180,12 +180,6 @@
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-28" value="S4、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="370" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-29" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="620" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-50" target="svdq0idFnYtj5EpjEtsb-29">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-50" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="535" width="400" height="50" as="geometry" />
