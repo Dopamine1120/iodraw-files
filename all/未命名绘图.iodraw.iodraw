@@ -27,11 +27,6 @@
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-1" value="&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;1.（L12-析出相体积分数）/（析出相体积分数）&amp;lt;0.1；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;2.L12相主要元素&amp;lt;15；&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;3.Al/（Ti+Nb）&amp;gt;1;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1220" y="251" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="dmdPCm7hSkdGT2MhOXLy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.763;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" source="dmdPCm7hSkdGT2MhOXLy-13" target="dmdPCm7hSkdGT2MhOXLy-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-655" y="804.54" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="对抗神经网络生成虚拟成分样本并进行约束初筛" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-960" y="452.5" width="400" height="45" as="geometry" />
         </mxCell>
@@ -152,6 +147,9 @@
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-28" value="耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-960" y="360" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-29" value="基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="540" width="400" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
