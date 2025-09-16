@@ -163,16 +163,8 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-28" value="耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-960" y="360" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-29" target="svdq0idFnYtj5EpjEtsb-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-760.0000000000005" y="657.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-29" value="基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-960" y="540" width="400" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-43" value="基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="670" width="400" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
