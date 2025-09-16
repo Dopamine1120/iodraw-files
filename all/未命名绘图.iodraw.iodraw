@@ -51,7 +51,7 @@
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-1" value="&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;1.（L12-析出相体积分数）/（析出相体积分数）&amp;lt;0.1；&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;2.L12相主要元素&amp;lt;15；&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;div style=&quot;line-height: 220%; font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;3.Al/（Ti+Nb）&amp;gt;1;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1239" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-13" target="svdq0idFnYtj5EpjEtsb-50">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-13" target="svdq0idFnYtj5EpjEtsb-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="S5、对抗神经网络方法生成接虚拟样本成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" parent="1" vertex="1">
@@ -178,7 +178,7 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28" target="dmdPCm7hSkdGT2MhOXLy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1050.0000000000005" y="395.344827586207" as="targetPoint" />
           </mxGeometry>
@@ -189,10 +189,13 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-29" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="620" width="400" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-50" target="svdq0idFnYtj5EpjEtsb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-50" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="535" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-27" target="svdq0idFnYtj5EpjEtsb-50">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-27" target="svdq0idFnYtj5EpjEtsb-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1050" y="315" />
