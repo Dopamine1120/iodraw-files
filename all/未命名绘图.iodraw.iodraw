@@ -163,8 +163,17 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-28" value="耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-960" y="360" width="400" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-29" target="svdq0idFnYtj5EpjEtsb-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-29" value="基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-960" y="540" width="400" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-40" value="" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="657.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-42" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-875" y="760" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
