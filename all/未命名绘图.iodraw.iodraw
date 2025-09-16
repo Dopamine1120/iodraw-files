@@ -10,8 +10,13 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PFPkpjG8Euh2rAgGwDlH-97" target="PFPkpjG8Euh2rAgGwDlH-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFPkpjG8Euh2rAgGwDlH-97" target="dmdPCm7hSkdGT2MhOXLy-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="svdq0idFnYtj5EpjEtsb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="PFPkpjG8Euh2rAgGwDlH-97" target="dmdPCm7hSkdGT2MhOXLy-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-510" y="145" />
+              <mxPoint x="-510" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PFPkpjG8Euh2rAgGwDlH-97" value="S1、构建高熵高温合金初始数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="120" width="400" height="50" as="geometry" />
@@ -44,7 +49,7 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="dmdPCm7hSkdGT2MhOXLy-13" target="svdq0idFnYtj5EpjEtsb-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="S5、对抗神经网络生成虚拟成分样本并进行约束初筛" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" parent="1" vertex="1">
+        <mxCell id="dmdPCm7hSkdGT2MhOXLy-13" value="S5、对抗神经网络生成虚拟样本并约束初筛构建初始种群" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-960" y="440.09" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dmdPCm7hSkdGT2MhOXLy-15" value="初步约束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
