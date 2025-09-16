@@ -187,6 +187,9 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-50" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="535" width="400" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="400.09000000000003" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
