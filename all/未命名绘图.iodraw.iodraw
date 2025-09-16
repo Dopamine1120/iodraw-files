@@ -163,7 +163,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-27" value="S3、耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="280" width="400" height="50" as="geometry" />
+          <mxGeometry x="-960" y="270" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28" target="dmdPCm7hSkdGT2MhOXLy-13">
           <mxGeometry relative="1" as="geometry" />
