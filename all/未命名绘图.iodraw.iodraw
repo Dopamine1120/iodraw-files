@@ -178,6 +178,11 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28" target="dmdPCm7hSkdGT2MhOXLy-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1050.0000000000005" y="395.344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-28" value="S4、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="370" width="400" height="50" as="geometry" />
         </mxCell>
@@ -191,6 +196,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-720" y="410" as="sourcePoint" />
             <mxPoint x="-670" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-27" target="svdq0idFnYtj5EpjEtsb-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1050" y="315" />
+              <mxPoint x="-1050" y="566" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
