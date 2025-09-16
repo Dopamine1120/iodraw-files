@@ -19,6 +19,9 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFPkpjG8Euh2rAgGwDlH-99" target="svdq0idFnYtj5EpjEtsb-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFPkpjG8Euh2rAgGwDlH-99" target="PFPkpjG8Euh2rAgGwDlH-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PFPkpjG8Euh2rAgGwDlH-99" value="基于自动化机器学习构建合金性质代理模型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-960" y="201" width="400" height="50" as="geometry" />
         </mxCell>
@@ -152,9 +155,6 @@
           <mxGeometry x="-1660" y="655" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-27" target="svdq0idFnYtj5EpjEtsb-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-27" target="PFPkpjG8Euh2rAgGwDlH-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-27" value="耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
