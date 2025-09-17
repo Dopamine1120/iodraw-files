@@ -250,7 +250,7 @@
             <mxPoint x="-1725.0000000000005" y="1245.344827586207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-80" value="S4、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-80" value="S4、耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1220" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-81" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
@@ -269,7 +269,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S5、对抗神经网络方法生成虚拟样本并采用约束初筛构建初始种群" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S3、对抗神经网络方法生成虚拟样本" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1070" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
