@@ -232,16 +232,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-72" value="S2、基于自动化机器学习构建合金性质代理模型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1001" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-74" target="svdq0idFnYtj5EpjEtsb-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-74" value="S5、基于相参数约束的初始种群快速初筛构建" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1308" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S4、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1155" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-80">
           <mxGeometry relative="1" as="geometry">
@@ -249,10 +249,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-80" value="S5、耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1231" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-81" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1385" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-76" target="svdq0idFnYtj5EpjEtsb-81">
           <mxGeometry relative="1" as="geometry">
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S3、对抗神经网络方法生成虚拟样本" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
+          <mxGeometry x="-1675" y="1078" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
