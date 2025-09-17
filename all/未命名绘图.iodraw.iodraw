@@ -225,6 +225,9 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-70" value="S1、构建高熵高温合金初始数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="svdq0idFnYtj5EpjEtsb-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-72" target="svdq0idFnYtj5EpjEtsb-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-72" value="S2、基于自动化机器学习构建合金性质代理模型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1001" width="400" height="50" as="geometry" />
         </mxCell>
@@ -236,14 +239,6 @@
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S4、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1140" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-80" target="svdq0idFnYtj5EpjEtsb-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-78" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;初步约束&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="svdq0idFnYtj5EpjEtsb-77">
-          <mxGeometry x="-0.4587" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-80">
           <mxGeometry relative="1" as="geometry">
