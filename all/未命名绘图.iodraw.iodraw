@@ -246,7 +246,7 @@
             <mxPoint x="-1720" y="1255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-80" value="S5、耦合“成分-相参数”合金成分约束参数计算" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-80" value="S5、计算耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1230" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-81" value="S6、基于遗传算法机器学习迭代设计轻质高熵高熵高温合金成分" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
