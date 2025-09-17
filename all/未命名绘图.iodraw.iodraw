@@ -266,7 +266,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S3、对抗神经网络方法生成虚拟样本" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S3、基于生成对抗神经网络算法生成虚拟样本" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1075" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
