@@ -238,7 +238,7 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-74" value="S5、基于相参数约束的初始种群快速初筛构建" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1308" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S4、定义高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S4、选取高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1153" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-80">
