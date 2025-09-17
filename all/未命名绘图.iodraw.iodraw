@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2755" dy="160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3308" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,9 +225,6 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-70" value="S1、构建高熵高温合金初始数据集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="920" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-72" target="svdq0idFnYtj5EpjEtsb-76">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-72" value="S2、基于自动化机器学习构建合金性质代理模型" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1001" width="400" height="50" as="geometry" />
         </mxCell>
@@ -237,10 +234,7 @@
         <mxCell id="svdq0idFnYtj5EpjEtsb-74" value="S5、对抗神经网络方法生成虚拟样本并采用约束初筛构建初始种群" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1305" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-76" target="svdq0idFnYtj5EpjEtsb-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S3、耦合“成分-相参数”合金成分约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
+        <mxCell id="svdq0idFnYtj5EpjEtsb-76" value="S3、高熵合金析出相调控参数约束参数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1140" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-80" target="svdq0idFnYtj5EpjEtsb-74">
@@ -274,9 +268,6 @@
           <mxGeometry x="0.207" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="svdq0idFnYtj5EpjEtsb-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svdq0idFnYtj5EpjEtsb-84" target="svdq0idFnYtj5EpjEtsb-72">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="svdq0idFnYtj5EpjEtsb-84" value="S5、对抗神经网络方法生成虚拟样本并采用约束初筛构建初始种群" style="whiteSpace=wrap;html=1;rounded=0;fontSize=13;spacing=0;fontStyle=1;strokeWidth=2;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-1675" y="1070" width="400" height="50" as="geometry" />
