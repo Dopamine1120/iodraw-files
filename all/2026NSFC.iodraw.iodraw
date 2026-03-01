@@ -8,16 +8,16 @@
           <mxGeometry x="149" y="20" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-1" value="&lt;span&gt;液-固结构溯源：&lt;/span&gt;&lt;div&gt;&lt;span&gt;熔体局域序构（SRO）解析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6" y="122" width="124" height="60" as="geometry" />
+          <mxGeometry x="6" y="122" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-2" value="本征降维映射：&lt;div&gt;基于相似系数的成分空间约束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6" y="282" width="200" height="60" as="geometry" />
+          <mxGeometry x="6" y="282" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-3" value="数据驱动的逆向设计：&lt;div&gt;热力学约束下的成分定制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6" y="442" width="200" height="60" as="geometry" />
+          <mxGeometry x="6" y="442" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观序构验证与反馈：&lt;div&gt;多尺度表征支撑的范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="6" y="602" width="200" height="60" as="geometry" />
+          <mxGeometry x="6" y="602" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=3;verticalAlign=middle;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-1" target="bb5RIvVMkLFye9g6U8sw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
