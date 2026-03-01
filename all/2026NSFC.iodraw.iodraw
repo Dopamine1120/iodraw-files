@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="129" width="640" height="231" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-0" value="&lt;span&gt;基于液-固结构遗传与相似系数降维的 &lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;FeCoNiCrAlTi&quot; class=&quot;math-inline&quot;&gt;FeCoNiCrAlTi&amp;nbsp;&lt;/span&gt;系高熵高温合金成分精准设计研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="40" width="640" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="760" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-1" value="&lt;span&gt;液-固结构溯源：&lt;/span&gt;&lt;div&gt;&lt;span&gt;熔体局域序构（SRO）解析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="34" y="159" width="114" height="60" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry x="640" y="624" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-81" value="&lt;ol style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5,1,0,0&quot;&gt;揭示底层物理机制：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; 阐明从“熔体局域序构”到“固态晶格畸变”的遗传演化规律，构建以液态物理特征作为多主元体系降维方法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;。&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5,1,1,0&quot;&gt;构建本征设计范式：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; 建立基于“相似系数”的物理本征降维模型，开发嵌入热力学约束的&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;41&quot; data-path-to-node=&quot;5,1,1,0&quot;&gt;机器学习方法&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，攻克稀疏数据下的高精度外推难题。&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;5,1,2,0&quot;&gt;实现成分精准定制：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; 研制出 2-3 种具备自主知识产权的新型高熵高温合金，使其承温能力与高温强度较传统高温合金实现跨越式提升，形成一套&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; data-index-in-node=&quot;67&quot; data-path-to-node=&quot;5,1,2,0&quot;&gt;逻辑自洽、通量高效&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;的材料研发新体系。&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="760" width="790" height="90" as="geometry" />
+          <mxGeometry x="40" y="760" width="760" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
