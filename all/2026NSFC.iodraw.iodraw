@@ -55,6 +55,9 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-15" value="畸变晶格" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="110" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-18" target="bb5RIvVMkLFye9g6U8sw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
