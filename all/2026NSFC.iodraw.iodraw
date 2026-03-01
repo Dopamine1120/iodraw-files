@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-1" value="液-固结构溯源：熔体局域序构（SRO）解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="130" width="200" height="60" as="geometry" />
+          <mxGeometry x="40" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-2" target="bb5RIvVMkLFye9g6U8sw-3">
           <mxGeometry relative="1" as="geometry" />
