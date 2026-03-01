@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-3" value="逆向设计：热力学约束下的成分定制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="440" width="195" height="60" as="geometry" />
+          <mxGeometry x="40" y="440" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观序构验证与反馈：&lt;div&gt;多尺度表征支撑的范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="510" width="200" height="60" as="geometry" />
+          <mxGeometry x="40" y="600" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
