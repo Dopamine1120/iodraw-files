@@ -64,6 +64,11 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-21" target="bb5RIvVMkLFye9g6U8sw-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-44" value="构建" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bb5RIvVMkLFye9g6U8sw-31">
+          <mxGeometry x="-0.0516" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-21" value="高维合金成分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
