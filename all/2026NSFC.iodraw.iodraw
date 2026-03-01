@@ -28,10 +28,10 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观序构验证与反馈：&lt;div&gt;多尺度表征支撑的范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="6" y="602" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bb5RIvVMkLFye9g6U8sw-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="470" as="sourcePoint" />
-            <mxPoint x="310" y="420" as="targetPoint" />
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="280" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
