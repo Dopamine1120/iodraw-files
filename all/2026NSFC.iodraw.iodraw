@@ -16,7 +16,7 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-3" value="数据驱动的逆向设计：&lt;div&gt;热力学约束下的成分定制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="6" y="442" width="114" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观序构验证与反馈：&lt;div&gt;多尺度表征支撑的范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观验证与反馈：&lt;div&gt;多尺度表征支撑的&lt;/div&gt;&lt;div&gt;范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="6" y="602" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=3;verticalAlign=middle;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-1" target="bb5RIvVMkLFye9g6U8sw-2">
