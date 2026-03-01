@@ -1,17 +1,26 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="749" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1762" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="bb5RIvVMkLFye9g6U8sw-0" value="&lt;b&gt;基于液-固结构遗传与相似系数降维的 &lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;FeCoNiCrAlTi&quot; class=&quot;math-inline&quot;&gt;FeCoNiCrAlTi&amp;nbsp;&lt;/span&gt;系高熵高温合金成分精准设计研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="149" y="20" width="530" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-1" target="bb5RIvVMkLFye9g6U8sw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-1" value="液-固结构溯源：熔体局域序构（SRO）解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="120" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-2" target="bb5RIvVMkLFye9g6U8sw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-2" value="本征降维映射：基于相似系数的成分空间约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="230" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-3" target="bb5RIvVMkLFye9g6U8sw-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-3" value="逆向设计：热力学约束下的成分定制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="360" width="200" height="60" as="geometry" />
