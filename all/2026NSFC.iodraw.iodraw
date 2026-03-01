@@ -76,8 +76,14 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-27" value="低维等效成分" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-30" target="bb5RIvVMkLFye9g6U8sw-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-30" value="高维合金成分数据库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-34" value="高维合金成分数据库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
