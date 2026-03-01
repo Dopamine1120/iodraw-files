@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="bb5RIvVMkLFye9g6U8sw-80" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="460" width="640" height="240" as="geometry" />
+          <mxGeometry x="160" y="453" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.3179916317991632;rotation=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="244" width="640" height="305" as="geometry" />
@@ -17,33 +17,33 @@
           <mxGeometry x="174" y="30" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-1" value="&lt;span&gt;液-固结构溯源：&lt;/span&gt;&lt;div&gt;&lt;span&gt;熔体局域序构（SRO）解析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="120" width="114" height="60" as="geometry" />
+          <mxGeometry x="33" y="120" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-2" value="本征降维映射：&lt;div&gt;基于相似系数的成分空间约束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="280" width="114" height="60" as="geometry" />
+          <mxGeometry x="33" y="280" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-3" value="逆向设计：&lt;div&gt;热力学约束下的&lt;/div&gt;&lt;div&gt;成分定制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="440" width="114" height="60" as="geometry" />
+          <mxGeometry x="33" y="440" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-4" value="微观验证与反馈：&lt;div&gt;多尺度表征支撑的&lt;/div&gt;&lt;div&gt;范式修正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="600" width="114" height="60" as="geometry" />
+          <mxGeometry x="33" y="600" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=3;verticalAlign=middle;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-1" target="bb5RIvVMkLFye9g6U8sw-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="284" y="218" as="sourcePoint" />
-            <mxPoint x="334" y="168" as="targetPoint" />
+            <mxPoint x="257" y="218" as="sourcePoint" />
+            <mxPoint x="307" y="168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=3;verticalAlign=middle;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-2" target="bb5RIvVMkLFye9g6U8sw-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="190" as="sourcePoint" />
-            <mxPoint x="170" y="290" as="targetPoint" />
+            <mxPoint x="143" y="190" as="sourcePoint" />
+            <mxPoint x="143" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=3;verticalAlign=middle;align=center;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-3" target="bb5RIvVMkLFye9g6U8sw-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="350" as="sourcePoint" />
-            <mxPoint x="170" y="450" as="targetPoint" />
+            <mxPoint x="143" y="350" as="sourcePoint" />
+            <mxPoint x="143" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-12" target="bb5RIvVMkLFye9g6U8sw-13">
