@@ -83,6 +83,9 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-25" value="相似系数降维" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="245" width="130" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bb5RIvVMkLFye9g6U8sw-27" target="bb5RIvVMkLFye9g6U8sw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-27" value="低维等效成分" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -98,7 +101,7 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-34" value="基于相似系数降维约束的高性能高熵合金机器学习设计" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bb5RIvVMkLFye9g6U8sw-40" value="高性能高熵合金" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-40" value="高性能高温高熵合金" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
