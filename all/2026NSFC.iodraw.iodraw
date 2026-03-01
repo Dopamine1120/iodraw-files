@@ -5,13 +5,13 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="bb5RIvVMkLFye9g6U8sw-80" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="460" width="560" height="240" as="geometry" />
+          <mxGeometry x="160" y="460" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.3179916317991632;rotation=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="245" width="640" height="305" as="geometry" />
+          <mxGeometry x="160" y="244" width="640" height="305" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.3179916317991632;rotation=0;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="100" width="600" height="210" as="geometry" />
+          <mxGeometry x="160" y="100" width="640" height="210" as="geometry" />
         </mxCell>
         <mxCell id="bb5RIvVMkLFye9g6U8sw-0" value="&lt;b&gt;基于液-固结构遗传与相似系数降维的 &lt;span style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot; data-index-in-node=&quot;19&quot; data-math=&quot;FeCoNiCrAlTi&quot; class=&quot;math-inline&quot;&gt;FeCoNiCrAlTi&amp;nbsp;&lt;/span&gt;系高熵高温合金成分精准设计研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="174" y="30" width="530" height="40" as="geometry" />
