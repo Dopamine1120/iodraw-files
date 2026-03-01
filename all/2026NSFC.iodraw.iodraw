@@ -174,8 +174,8 @@
         <mxCell id="bb5RIvVMkLFye9g6U8sw-70" value="屈服/高温强度表征" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bb5RIvVMkLFye9g6U8sw-71" value="屈服/高温强度表征" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="595" width="120" height="60" as="geometry" />
+        <mxCell id="bb5RIvVMkLFye9g6U8sw-71" value="强化机理分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
