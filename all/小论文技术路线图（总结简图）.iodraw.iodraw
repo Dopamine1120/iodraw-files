@@ -39,6 +39,9 @@
         <mxCell id="ust5xwGy40k41M_bxDdZ-11" value="CSRO遗传信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ust5xwGy40k41M_bxDdZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-15" target="GkzKCZ8Z4gqi3Drf_i7o-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-15" value="巨大成分空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-16" value="复杂相互作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
