@@ -13,7 +13,7 @@
         <mxCell id="ust5xwGy40k41M_bxDdZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-1" target="ust5xwGy40k41M_bxDdZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-4">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-5" value="十元高熵高温合金-&amp;gt;Ni-Al-Cr伪三元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-4">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
