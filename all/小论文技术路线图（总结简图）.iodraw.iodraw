@@ -4,51 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ust5xwGy40k41M_bxDdZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1" target="ust5xwGy40k41M_bxDdZ-9">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1" target="ust5xwGy40k41M_bxDdZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1" target="ust5xwGy40k41M_bxDdZ-11">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1" target="ust5xwGy40k41M_bxDdZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GkzKCZ8Z4gqi3Drf_i7o-1" value="&lt;b&gt;基于多尺度计算的高温高熵合金设计及分析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GkzKCZ8Z4gqi3Drf_i7o-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;基于多尺度计算的高温高熵合金设计及分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-1" target="ust5xwGy40k41M_bxDdZ-3">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-1" target="ust5xwGy40k41M_bxDdZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-5" value="十元高熵高温合金-&amp;gt;Ni-Al-Cr伪三元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-4">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-5" value="十元高熵高温合金-&amp;gt;Ni-Al-Cr伪三元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=15;" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-4">
           <mxGeometry x="-0.15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-1" value="基于相似系数高熵合金降维方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-1" value="基于相似系数高熵合金降维方法" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="330" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-3" value="新型物理约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-3" value="新型物理约束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="485" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-9" target="ust5xwGy40k41M_bxDdZ-1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-9" target="ust5xwGy40k41M_bxDdZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-9" value="元素相似性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-9" value="元素相似性" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-11" target="ust5xwGy40k41M_bxDdZ-1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-11" target="ust5xwGy40k41M_bxDdZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-11" value="CSRO遗传信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-11" value="CSRO遗传信息" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="760" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-15" target="GkzKCZ8Z4gqi3Drf_i7o-1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-15" target="GkzKCZ8Z4gqi3Drf_i7o-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-15" value="巨大成分空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-15" value="巨大成分空间" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="390" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-16" target="GkzKCZ8Z4gqi3Drf_i7o-1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-16" target="GkzKCZ8Z4gqi3Drf_i7o-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-16" value="复杂相互作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-16" value="复杂相互作用" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="585" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
