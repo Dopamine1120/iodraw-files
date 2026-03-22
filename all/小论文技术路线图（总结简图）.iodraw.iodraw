@@ -65,7 +65,10 @@
           <mxGeometry x="585" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-20" value="高性能初始种群" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ust5xwGy40k41M_bxDdZ-24" value="高性能初始种群" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
