@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-1" value="基于SRO的相似系数参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ust5xwGy40k41M_bxDdZ-1" value="基于相似系数高熵合金降维方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="180" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-3" value="新型物理约束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
