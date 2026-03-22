@@ -4,17 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ust5xwGy40k41M_bxDdZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1" target="ust5xwGy40k41M_bxDdZ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-2">
-          <mxGeometry x="-0.02" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-7" value="元素相似性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-2">
-          <mxGeometry x="-0.04" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="ust5xwGy40k41M_bxDdZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GkzKCZ8Z4gqi3Drf_i7o-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GkzKCZ8Z4gqi3Drf_i7o-1" value="&lt;b&gt;基于多尺度计算的高温高熵合金设计及分析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
