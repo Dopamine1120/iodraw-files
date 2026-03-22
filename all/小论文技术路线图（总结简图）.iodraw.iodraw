@@ -67,8 +67,8 @@
         <mxCell id="ust5xwGy40k41M_bxDdZ-20" value="高性能初始种群" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ust5xwGy40k41M_bxDdZ-24" value="高性能初始种群" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="ust5xwGy40k41M_bxDdZ-24" value="NSGA-2遗传算法" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="550" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
