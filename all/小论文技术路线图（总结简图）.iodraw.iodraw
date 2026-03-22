@@ -32,6 +32,11 @@
         <mxCell id="ust5xwGy40k41M_bxDdZ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ust5xwGy40k41M_bxDdZ-3" target="ust5xwGy40k41M_bxDdZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ust5xwGy40k41M_bxDdZ-22" value="+WGAN_GP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ust5xwGy40k41M_bxDdZ-21">
+          <mxGeometry x="-0.2941" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-3" value="新型物理约束" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="485" y="470" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,7 +65,7 @@
           <mxGeometry x="585" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ust5xwGy40k41M_bxDdZ-20" value="高性能初始种群" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
